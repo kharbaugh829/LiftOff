@@ -8,12 +8,14 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+- https://app.moqups.com/DNDPaSP2dE2676CvFAkNsLqhk3lv1yk2/view/page/a7bdc83f0
+- https://app.moqups.com/DNDPaSP2dE2676CvFAkNsLqhk3lv1yk2/view/page/a26158b3b
+- https://app.moqups.com/DNDPaSP2dE2676CvFAkNsLqhk3lv1yk2/view/page/aa074f41f
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/7goeSEx2/main-board
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/gojanedoe/yoga-routine-builder
